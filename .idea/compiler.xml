@@ -9,6 +9,7 @@
         <module name="cloud-client" />
         <module name="cloud-provider" />
         <module name="cloud-service" />
+        <module name="cloud-zuul" />
       </profile>
     </annotationProcessing>
   </component>
